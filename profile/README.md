@@ -1,7 +1,7 @@
 # 🧠 Chitta Lab
 
 <p align="center">
-  <img src="./chitta-lab-logo.PNG" />
+  <img src="../chitta-lab-logo.PNG" />
 </p>
 
 <h3 align="center">
