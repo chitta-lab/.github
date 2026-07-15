@@ -1,5 +1,4 @@
-# 🧠 Chitta Lab
-
+<h1 align="center">☸️ Chitta Lab ☸️ </h1>
 <p align="center">
   <img src="../chitta-lab-logo.PNG" />
 </p>
